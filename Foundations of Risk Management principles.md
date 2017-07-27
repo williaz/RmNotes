@@ -45,14 +45,28 @@ in advance, with ease, certainty
 - variability of the potential reward. 
   - The portion of the variability that is measurable as a probability function could be thought of as risk whereas the portion that is not measurable could be thought of as uncertainty.
 
-
-
-
-
-
-
-
-
+### classes of risks
+#### LO 1.6: Describe and differentiate between the key classes of risks, explain how each type o f risk can arise, and assess the potential impact o f each type o f risk on an organization.
+- Market risk: how changes in market prices and rates will result in investment losses.
+  - (1) interest rate risk
+  - (2) equity price risk: volatility of stock prices, general market risk & specific risk
+  - (3) foreign exchange risk: unhedged or not fully hedged foreign currency positions.
+  - (4) commodity price risk
+- Credit risk: a loss suffered by a party whereby the counterparty fails to meet its financial obligations to the party under the contract.
+  - (1) default risk
+  - (2) bankruptcy risk
+  - (3) downgrade risk
+  - (4) settlement risk
+- Liquidity Risk
+  - (1) funding liquidity risk
+  - (2) trading liquidity risk
+- Operational Risk
+- Legal and Regulatory Risk
+- Business Risk: income nstatement
+- Strategic risk
+- Reputation Risk
+  - (1) the general perceived trustworthiness of an entity
+  - (2) the general perception that the entity engages in fair dealing and conducts business in an ethical manner.
 
 
 
