@@ -38,7 +38,7 @@
 in advance, with ease, certainty
 - Expected loss considers how much an entity expects to lose in the normal course of business.
 - Unexpected loss considers how much an entity could lose outside of the normal course of business.
-  - correlation risk drives up the potential losses to unexpected levels <- historical analysis
+  - **correlation risk drives up the potential losses to unexpected levels** <- historical analysis
 
 ### risk and reward
 #### LO 1.5: Interpret the relationship between risk and reward and explain how conflicts o f interest can impact risk management.
@@ -55,18 +55,57 @@ in advance, with ease, certainty
 - Credit risk: a loss suffered by a party whereby the counterparty fails to meet its financial obligations to the party under the contract.
   - (1) default risk
   - (2) bankruptcy risk
-  - (3) downgrade risk
+  - (3) downgrade risk: publicly traded
   - (4) settlement risk
 - Liquidity Risk
   - (1) funding liquidity risk
   - (2) trading liquidity risk
-- Operational Risk
+- Operational Risk: non-financial risk
 - Legal and Regulatory Risk
 - Business Risk: income nstatement
 - Strategic risk
 - Reputation Risk
   - (1) the general perceived trustworthiness of an entity
   - (2) the general perception that the entity engages in fair dealing and conducts business in an ethical manner.
+
+### hedging risk exposures
+#### LO 2.1: Evaluate some advantages and disadvantages of hedging risk exposures.
+- perfect capital markets
+
+### hedging decisions
+#### LO 2.2: Explain considerations and procedures in determining a firm’s risk appetite and its business objectives.
+#### LO 2.3: Explain how a company can determine whether to hedge specific risk factors, including the role of the board of directors and the process of mapping risks.
+- A major conclusion to consider with the risk/return trade-off is that firms should accept all projects with a positive net present value (NPV), taking into account risk, because it will maximize value for the firm’s stakeholders.
+- a firm must know its risk and return goals before embarking on a risk management plan.
+- firm’s risk appetite, approved by the board of directors
+- conflict between the two major stakeholders—debtholders and shareholders.
+- The bottom line is that it is not possible to hedge both accounting and economic risk at the same time, so a choice between the two must be made.
+- the issue of hedging short-term versus long-term accounting profits
+- time horizon
+- Liquidity, accounting, and tax effects need to be considered.
+- implement definitive and quantitative risk limits
+- the firm should also research and identify the top 10 risk exposures it faces.
+
+### hedge operational and financial risks
+#### LO 2.4: Apply appropriate methods to hedge operational and financial risks, including pricing, foreign currency, and interest rate risk.
+- Pricing Risk: the cost of inputs <- 
+- The goal of hedging foreign currency risk is to control exposure to exchange rate fluctuations that impact future cash flows and the fair value of assets and liabilities.
+- foreign exchange rate fluctuations <- forward or futures contract locking cost
+  - currency put options (to ensure a known absolute minimum return should the exchange rate fall beyond the strike rate) 
+  - forward contracts (to ensure a known return based on n exchange rate determined in advance and acceptable by the firm)
+- The goal of hedging interest rate risk is to control the firm’s net exposure (asset or liability) to unfavorable interest rate fluctuations. <- interest rate swaps
+- Static vs. Dynamic Hedging Strategies
+- hedging considerations:
+  - relevant time horizons for hedging -> performance evaluations
+  - complex financial accounting
+  - tax, law
+
+### risk management instruments
+#### LO 2.5: Assess the impact of risk management instruments.
+- time horizon
+- fully insure, partially insure, or not to insure (i.e., self-insure)
+- exchange traded or over the counter (OTC)
+
 
 
 
