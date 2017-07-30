@@ -71,6 +71,8 @@ in advance, with ease, certainty
 ### hedging risk exposures
 #### LO 2.1: Evaluate some advantages and disadvantages of hedging risk exposures.
 - perfect capital markets
+- hedging involves the use of financial derivatives VS insuring involves the use of insurance policies;
+- in practice, hedging with derivatives may not be a zero-sum game of transferring risk between periods or between participants.
 
 ### hedging decisions
 #### LO 2.2: Explain considerations and procedures in determining a firm’s risk appetite and its business objectives.
@@ -106,6 +108,47 @@ in advance, with ease, certainty
 - fully insure, partially insure, or not to insure (i.e., self-insure)
 - exchange traded or over the counter (OTC)
 
+### best practices
+#### LO 3.1: Compare and contrast best practices in corporate governance with those of risk management.
+- Corporate Governance
+  - The board of directors should be comprised of a majority of independent members
+  - The board should be watching out for the interests of the shareholders and other stakeholders(debtholders)
+  - The board should be aware of any agency risks(personal remuneration)
+  - The board should maintain its independence from management.
+  - The board should consider the introduction of a chief risk officer (CRO).
+    - CRO should not be a member of the board
+- Risk Management
+  - The board of directors should demand substance over form.
+  - The board should set up an ethics committee
+  - the board should ensure that performance measurement and compensation for all staff is consistent with the firm’s goals and the shareholders’ interests.
+  - ensuring the transactions are within the established risk appetite and consistent with the firm’s overall business strategy.
+  - The board should have a risk committee in place, which is separate from the audit committee
+  - 
+
+### risk governance
+#### LO 3.2: Assess the role and responsibilities of the board of directors in risk governance.
+#### LO 3.4: Distinguish the different mechanisms for transmitting risk governance throughout an organization.
+- Risk Advisory Director: A risk advisory director would be a board member who is a risk specialist who attends risk committee and audit committee meetings and provides advice to increase effectiveness.
+- Risk Management Committee: identifying, measuring, and monitoring financial risks; approving credit facilities that are above certain limits or a specific threshold
+- Compensation Committee: to discuss and approve the remuneration of key management personnel.
+- Audit Committee
+
+### audit committee
+#### LO 3.6: Assess the role and responsibilities of a firms audit committee.
+- for the reasonable accuracy of the firm’s financial statements and its regulatory reporting requirements.
+
+### risk appetite and business strategy
+#### LO 3.3: Evaluate the relationship between a firm’s risk appetite and its business strategy, including the role of incentives.
+- A firm’s risk appetite reflects its tolerance (especially willingness) to accept risk.
+- defining the firm’s risk limits sets some bounds to its business strategy and to its ability to exploit business opportunities.
+
+### interdependence of functional units
+#### LO 3.5: Illustrate the interdependence of functional units within a firm as it relates to risk management.
+- (1) senior management
+- (2) risk management
+- (3) trading room management
+- (4) operations
+- (5) finance
 
 
 
