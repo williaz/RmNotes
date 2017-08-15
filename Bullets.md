@@ -275,9 +275,75 @@ were given higher valuations. The other study concluded that shareholder governa
 improvements would change a firm’s culture from focusing on employee integrity and
 customer service to focusing on end results.
 
+### LO 6.1
+- **Drysdale** Securities was able to borrow $300 million in unsecured funds from Chase
+Manhattan by exploiting a flaw in the system for computing the value of collateral.
+- The head of the government bond trading desk at **Kidder Peabody**, Joseph Jett, reported
+substantial artificial profits. After the false profits were detected, $330 million in previously
+reported gains had to be reversed.
+- Hidden trading losses at **Barings** induced Nick Leeson to abandon hedging strategies in
+favor of speculative strategies. A lack of operational oversight and his dual roles as trader
+and settlement officer allowed him to conceal his activities and losses.
+- A currency trader for **Allied Irish Bank**, John Rusnak, hid $691 million in losses. Rusnak
+bullied back-office workers into not following-up on trade confirmations for imaginary
+trades.
+- **UBS**’s equity derivatives business lost millions in 1997 and 1998. The losses were mostly
+due to incorrect modeling of long-dated options and the firm’s stake in Long-Term Capital
+Management.
+- Jerome Kerviel, a junior trader at **Societe Generale**, participated in unauthorized trading
+activity and concealed this activity with fictitious offsetting transactions. The fraud resulted
+in $7.1 billion in losses and severely damaged the reputation of Societe Generale.
+- Extreme leverage, a lack of diversification, and inadequate risk models put Long-Term
+Capital Management **(LTCM)** in a cash flow crisis when an economic shock created intolerable
+marked to market losses and margin calls. A forced liquidation of its huge positions drove
+prices down, further compounding their losses.
+- The financial crisis at **Metallgesellschaft** resulted fundamentally from cash flow timing
+differences associated with the positions making up its hedge. Cash flows on short forward
+contracts occurred over the distant future. Cash flows on long futures contracts occurred
+daily. In addition, the sizes of the positions were so large that it prevented the company
+from liquidating its positions without incurring large losses.
+- **Bankers Trust** developed derivative structures that were intentionally complex and prevented
+Procter & Gamble and Gibson Greetings from fully understanding the trade values and
+risks that were involved. In taped phone conversations, BT’s staff bragged about how badly
+they fooled clients.
+- JPMorgan Chase and Citigroup were the main counterparties in **Enron**’s derivative
+transactions. After the Enron scandal was revealed, these investment banks agreed to pay a
+$286 million fine for assisting with fraud against Enron shareholders.
 
-
-
+### LO 7.1
+The two main factors that led to the housing bubble were:
+- 1. Cheap credit: Large capital inflows from abroad plus the Fed’s lax interest rate policy
+lead to a low interest rate environment in the United States, making mortgages less
+expensive for borrowers.
+- 2. Decline in lending standards: The originate-to-distribute model allowed banks to
+offload risk to investors, which led to falling lending standards because banks had less
+incentive to exercise care when approving and monitoring loans.
+### LO 7.2
+- The originate-to-distribute model and asset-liability maturity mismatches were two key
+banking industry trends that led to the mortgage crisis and resulting liquidity squeeze.
+### LO 7.3
+- Banks create collateralized debt obligations (CDOs) to unburden themselves of risk. First,
+the bank will bundle a number of debt instruments, such as bonds and loans. Then, this
+portfolio is sliced into various tranches. Finally, the different tranches are sold to investors
+with varying appetites for risk.
+- The super senior tranche, which is the safest tranche and first to be paid out (but pays the
+lowest interest rate), is sold to investors that have low risk tolerance. The most junior or
+equity tranche is typically (but not always) retained by the CDO issuer to give the bank
+incentive to monitor the loans carefully. The mezzanine tranche is in-between the senior
+and equity tranches.
+### LO 7.4
+- Credit default swaps (CDSs) are essentially insurance contracts that pay off in the event of
+the default of a bond or tranche. The protection buyer pays the protection seller a set fee
+at fixed intervals and in exchange receives protection in the form of a payment if the debt
+instrument experiences a credit default.
+### LO 7.5
+- The originate-to-distribute model refers to the process through which banks create securities
+based on an underlying pool of mortgages, bonds, or other loans and then sell the securities
+to investors. By originating and selling the securitized assets, the banks transfer the default
+risk of borrowers to the investors.
+- Banks, via structured investment vehicles (SIVs), used commercial paper and repurchase
+agreements (repos) to roll over short-term financing for investing in long-term assets. The
+banks’ mismatches in asset-liability maturities exposed the banks to funding liquidity risk.
 
 
 
