@@ -111,6 +111,106 @@ risk would exist simultaneously
 - Interest rate risk refers to the risk inherent in a firm’s net
 exposure to unfavorable interest rate fluctuations.
 
+### LO 3.1
+#### There are numerous best practices in corporate governance, including:
+- Board is comprised of a majority of independent members with basic knowledge of the
+firm’s business and industry.
+- Board watches out for the interests of all stakeholders, including shareholders and
+debtholders who may have somewhat differing interests.
+- Board is aware of any agency risks and takes steps to reduce them (e.g., compensation
+committee).
+- Board maintains its independence from management (e.g., CEO is not the chairman of
+the board).
+- Board should consider the introduction of a chief risk officer.
+#### There are numerous best practices in risk management, including:
+- Board should focus on the firm’s economic performance over accounting performance.
+- Board should promote a robust risk management process within the firm (e.g., upward
+mobility for risk management careers).
+- Board should set up an ethics committee to uphold high ethical standards within the
+firm.
+- Board should ensure that compensation is based on risk-adjusted performance.
+- Board should approve all major transactions.
+- Board should always apply professional skepticism to ask probing and relevant questions
+to management.
+- Board should have a risk committee in place.
+### LO 3.2
+#### The role of the board of directors in governance would include the review and analysis of:
+- The firm’s risk management policies.
+- The firm’s periodic risk management reports.
+- The firm’s appetite and its impact on business strategy
+- The firm’s internal controls.
+- The firm’s financial statements and disclosures.
+- The firm’s related parties and related party transactions.
+- Any audit reports from internal or external audits.
+- Corporate governance best practices for the industry
+- Risk management practices of competitors and the industry.
+### LO 3.3
+- A firm’s risk appetite reflects its tolerance (especially willingness) to accept risk. There
+is subsequent implementation of the risk appetite into defining the firm’s risk limits.
+- Ultimately there must be a logical relationship between the firm’s risk appetite and its
+business strategy.
+### LO 3.4
+- Two mechanisms for transmitting risk governance throughout a firm are the audit
+committee of the board and the use of a risk advisory director. 
+- Additionally, the role of
+the risk management committee and the compensation committee further transmit risk
+governance.
+### LO 3.5
+- The various functional units within a firm are dependent on one another when it comes
+to risk management and reporting. 
+- Using an investment bank as an example, areas such
+as valuations, the profit and loss statement, and risk policy require input from more than
+one of the following units: (1) senior management, (2) risk management, (3) trading room
+management, (4) operations, and (5) finance.
+### LO 3.6
+- The audit committee is responsible for the reasonable accuracy of the firm’s financial
+statements and its regulatory reporting requirements. It must ensure that the firm has taken
+all steps to avoid the risk that the financial statements are materially misstated as a result
+of undiscovered errors and/or fraud. 
+- In addition to the more visible verification duties, the
+audit committee monitors the underlying systems in place regarding financial reporting,
+regulatory compliance, internal controls, and risk management.
+
+### LO 4.1
+- An integrated and centralized approach under ERM is significantly more effective in
+managing a company’s risks than under the traditional silo approach of managing and
+centralizing risks within each risk/business unit. 
+- ERM is a comprehensive and integrated
+framework for managing a firm’s key risks to meet business objectives, minimize unexpected
+earnings volatility, and maximize firm value.
+### LO 4.2
+- The key motivations of an ERM initiative include integration of risk organization,
+integration of risk transfer, and integration of business processes, which lead to increased
+organizational effectiveness, better risk reporting, and improved business performance,
+respectively.
+### LO 4.3
+- The chief risk officer (CRO) is responsible for all risks facing a company, including market,
+credit, and operational risks and is responsible for developing and implementing an ERM
+strategy. 
+- The CRO provides overall leadership for ERM and develops policies and standards,
+including setting the firm’s overall risk appetite, measuring and quantifying risks and setting
+risk limits, and developing risk systems.
+- The CRO generally reports to the CEO or CFO but could also have a dotted line
+relationship to both the CEO/CFO and to the board to minimize any potential friction
+between the CRO and the CEO/CFO (due to excessive risk taking, regulatory issues, or
+fraud).
+- An ideal CRO possesses five critical skills: (1) leadership, (2) power of persuasion, (3) ability
+to protect the firm’s assets, (4) technical skills to understand all risks, and (5) consulting
+skills to educate the board and business functions on risk management.
+### LO 4.4
+- A strong ERM framework has seven main components: (1) corporate governance, (2) line
+management, (3) portfolio management, (4) risk transfer, (5) risk analytics, (6) data and
+technology resources, and (7) stakeholder management.
+
+
+
+
+
+
+
+
+
+
 
 
 
