@@ -202,9 +202,78 @@ skills to educate the board and business functions on risk management.
 management, (3) portfolio management, (4) risk transfer, (5) risk analytics, (6) data and
 technology resources, and (7) stakeholder management.
 
+### LO 5.1
+- Methods to determine the optimal level of risk exposure include targeting a certain default
+probability or credit rating and sensitivity or scenario analysis.
+- In targeting a certain
+default probability or credit rating, a bank should not always aim to earn the highest credit
+rating possible because the rating would likely involve a large opportunity cost as the bank
+would have to forego risky projects that could otherwise provide high profits.
+- Sensitivity
+or scenario analysis involves a bank determining its optimal level of risk exposure by the
+impact of specific shocks. There would be an analysis of the adverse impacts on the value of
+a bank due to changes in interest rates, foreign exchange rates, inflation, et cetera.
+- The optimal level of risk depends on the specific focus of the bank’s activities (e.g., lending,
+deposits, derivatives), so it will differ among banks.
+### LO 5.2
+- Banks need to take on an optimal amount of risk in order to maximize shareholder value
+while satisfying the constraints imposed by bank regulators. If a bank takes on too little risk
+compared to its optimal level, it may not generate sufficient returns for its shareholders,
+which could decrease the value of the bank. Taking on too much risk may also decrease the
+value of a bank.
+### LO 5.3
+- Investing in risk management might not be worth its cost if incremental changes in
+risk taken do not result in much change in the value of a bank.
+- On the other hand, risk
+management may add value if taking on incremental risk would otherwise result in excessive
+total risk and a significant decrease in the value of a bank.
+- If a bank adopts an inflexible risk management process in order to manage the bank’s risk
+below a set acceptable threshold level, it may not allow for any value creation.
+- In contrast,
+a more flexible risk management system may allow the bank to take on profitable risks and
+take advantage of investment opportunities that could increase its value.
+- The risk management function of a bank can add value by requiring business units to take
+the perspective of the entire bank when making decisions regarding risks.
+### LO 5.4
+- Risk management through hedging alone will not result in risk management becoming a
+passive activity due to (1) risk measurement technology limitations, (2) hedging limitations,
+and (3) risk taker incentive limitations.
+- Ideally, the risk management function within a bank would be independent of the activities
+of the business lines. However, risk management involves both a verification function and
+advising on whether to accept or reject a risky project based on established risk limits.
 
+- Therefore, such independence is difficult to achieve in practice. In addition, if the risk
+management process is viewed as a form of internal policing, then the necessary dialogue
+between risk managers and business unit managers will not exist.
+- All individual banking units must consider their ability to adjust their VaR by trading
+efficiently to ensure that, overall, the bank is making optimal use of its ability to take risk
+and maximizing its profits.
+- Firmwide VaR is not likely to account for all of the bank’s risks, especially operational
+risks. The aggregation of market, credit, and operational risks in arriving at a firmwide risk
+measure needs to consider the correlation estimates between such risks, although in practice,
+there is usually insufficient data available to make such estimates accurately. Different
+types of risk will lead to differing statistical distributions. For example, market risk can
+be approximated by a normal distribution, but credit and operational risks follow a nonnormal
+distribution, which makes them more challenging to quantify.
 
-
+### LO 5.5
+- It is difficult to demonstrate that a bank’s governance has a significant impact on its risk
+profile and performance for three main reasons. 
+  - First, very limited data exists on how the
+risk function operates in banks. 
+  - Second, risk function characteristics are also affected by the
+bank’s risk appetite (in addition to governance). 
+  - Third, it is possible that at the firm level,
+poor performance will occur even in the presence of strong governance.
+- Incentives must be designed so that they do not merely reward managers for performance
+based on their respective business units alone. Incentives should reward managers for taking
+risks that create value for the overall bank while at the same time penalize them for taking
+risks that destroy value.
+- Two studies examined the impact of culture. One of these studies concluded that companies
+where managers were perceived as honest and trustworthy were more profitable and
+were given higher valuations. The other study concluded that shareholder governance
+improvements would change a firm’s culture from focusing on employee integrity and
+customer service to focusing on end results.
 
 
 
