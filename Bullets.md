@@ -1,4 +1,4 @@
-## LO 1.1
+### LO 1.1
 - Risk arises from the uncertainty regarding an entity’s future losses as well as future gains.
 - Risk management includes the sequence of activities aimed to reduce or eliminate an entity’s
 potential to incur expected losses. 
@@ -344,6 +344,165 @@ risk of borrowers to the investors.
 - Banks, via structured investment vehicles (SIVs), used commercial paper and repurchase
 agreements (repos) to roll over short-term financing for investing in long-term assets. The
 banks’ mismatches in asset-liability maturities exposed the banks to funding liquidity risk.
+
+### LO 8.1
+- The main trigger of the financial crisis was the prospect of losses on subprime mortgages. In
+the first half of 2007, housing prices in the United States started to decline, causing several
+subprime mortgage lenders to file for bankruptcy and subsequently fail. These losses became
+amplified as they had a ripple effect that spread to the main vulnerabilities of the crisis,
+asset-backed commercial paper (ABCP) and repurchase agreements.
+### LO 8.2
+- When housing prices declined and homeowners defaulted on their mortgage loans, it
+reduced the value and prices of ABCP. These declining prices resulted in bank runs on
+shadow banks and money market mutual funds (MMFs) and signaled the start of a liquidity
+crisis.
+- The liquidity crisis continued to spread into repo agreements with the average haircut going
+from near zero at the beginning of 2007 to 25% by September of 2008 (Lehman Brothers
+bankruptcy).
+### LO 8.3
+- The Lehman Brothers bankruptcy filing in September 2008 is considered the tipping
+point in the financial crisis. It eroded confidence and caused a run on MMFs. This lack of
+confidence spread across markets and countries, amplifying losses in the subprime mortgage
+market.
+### LO 8.4
+- The recent financial crisis was not unique compared to previous banking crises. It followed
+a similar pattern of increased public and private debt, increased credit supply, and increased
+housing prices preceding and leading to the crises.
+### LO 8.5
+- The two main panic periods of the financial crisis were August 2007 and September 2008
+through October 2008. The first panic period in August 2007 occurred when there were
+runs on ABCP. The start of the second panic period was September 2008 when Lehman
+Brothers filed for bankruptcy.
+- Lehman’s failure caused a run on a particular MMF called Reserve Primary, which
+contained commercial paper issued by Lehman. The run on Reserve Primary spread to other
+MMFs, which started a contagion effect that spread to other assets that were falling in price
+in tandem with rising haircuts.
+
+### LO 8.6
+- The International Monetary Fund (IMF) studied 13 developed countries and their
+responses to the financial crisis. This resulted in 153 separate policy actions that
+were divided into 5 subgroups consisting of interest rate change, liquidity support,
+recapitalization, liability guarantees, and asset purchases.
+- To measure the impact of interest rate cuts, the IMF used the economic stress index (ESI)
+and the financial stress index (FSI,). Liquidity support was measured using interbank spreads
+and the FSI. Recapitalization, liability guarantees, and asset purchases were measured using
+the FSI and an index of credit default swaps (CDSs) on banks.
+- The evidence suggests that the most effective measures taken were the liquidity support
+stabilizing the interbank markets before the Lehman failure and recapitalization (capital
+injections), which was considered the most effective tool after the Lehman failure.
+### LO 8.7
+- Studies done on the effects of the global financial crisis on corporations and consumers
+pointed out that as the global recession strengthened, the demand for credit decreased.
+
+### LO 9.1
+- Risk management involves assessing, communicating, monitoring, and managing risks.
+- A large loss does not necessarily mean that risk management has failed. Losses are the result
+of risk taking, which is required for value creation.
+### LO 9.2
+- Risk management can fail if the firm does not do the following: measure risks correctly,
+recognize some risk, communicate risks to top management, monitor and manage risks, and
+use appropriate metrics.
+### LO 9.3
+- Mismeasurement can occur when management does not understand the distribution of
+returns of a single position or the relationships of the distributions among positions and
+how the distributions and correlations can change over time. Mismeasurement can also
+occur when managers must use subjective probabilities for rare and extreme events. The
+subjective probabilities can be biased from firm politics.
+- Failing to take known and unknown risks into account can take three forms: (1) ignore a
+risk that is known, (2) failure to incorporate a risk into risk models, and (3) not finding
+all risks. All three of these are variations of the same concept and can have similar results
+(e.g., failure to measure overall risk or expanding operations to areas where risk is not being
+properly measured).
+- Senior managers must understand the results of risk management in order for it to be
+meaningful. Unless senior managers have the correct information to make decisions, risk
+management is pointless.
+- Risk managers must recognize how risk characteristics change over time. Many securities
+have complex relationships with market variables. Having an adequate incentive structure
+and firm-wide culture can help with the risk monitoring and managing process.
+### LO 9.4
+- Risk metrics such as VaR are usually too narrow in scope. For example, VaR usually assumes
+independent losses across periods of time. Risk metrics generally fail to capture the effect of
+a firm’s actions on the overall market and behavior patterns such as predatory trading.
+
+### LO 10.1
+There are three major steps in deriving the CAPM:
+- 1. Recognize that since investors are only compensated for bearing systematic risk, beta is
+the appropriate measure of risk.
+- 2. By knowing that portfolio expected return is a weighted average of individual expected
+returns and portfolio beta is a weighted average of the individual betas, we can show
+that portfolio return is a linear function of portfolio beta. Since arbitrage prevents
+mispricing of assets relative to systematic risk (beta), an individual asset’s expected
+return is a linear function of its beta.
+- 3. Use the risk-free asset and the market portfolio, which are two points on the security
+market line, to solve for the intercept and slope of the CAPM. The equation for CAPM
+is:
+E(Ri) = R F + [E(RM) - R F]f3i
+### LO 10.2
+- The capital asset pricing model (CAPM), derived by Sharpe, Lintner, and Mossin, expresses
+the expected return for an asset as a function of the asset’s level of systematic risk (measured
+by beta), the risk-free rate, and the market risk premium (the expected return of the market
+minus the risk-free rate). 
+- There are several assumptions underlying the CAPM.
+  - Investors face no transaction costs.
+  - Assets are infinitely divisible.
+  - There are no taxes.
+  - Investors are price takers whose individual buy and sell decisions have no effect on asset
+prices.
+  - Investors’ utility functions are based solely on expected portfolio return and risk.
+  - Unlimited short-selling is allowed.
+  - Investors are only concerned about returns and risk over a single period, and the single
+period is the same for all investors.
+  - All investors have the same forecasts of expected returns, variances, and covariances.
+  - All assets are marketable.
+### LO 10.3
+- The capital market line (CML) expresses the expected return of a portfolio as a linear
+function of its standard deviation, the market portfolio’s return and standard deviation, and
+the risk-free rate.
+
+### LO 10.4
+- The expected return for an asset can be computed using the CAPM given the risk-free rate,
+the market risk premium, and an asset’s systematic risk.
+### LO 10.5
+- Beta can be calculated using the following equation: Beta is Cov divided by market variance
+- Portfolio beta is the weighted average of the asset betas in a portfolio.
+
+
+### LO 11.1
+Three commonly used risk/return measures are:
+- Treynor measure of a portfolio is (E(Rp) - Rfree)/BETAp
+- Sharpe measure of a portfolio =  (E(Rp) - Rfree)/DEVp
+- Jensen measure of a portfolio = alpla = E(Rp) - \[Rfree + \[E(Rm) - Rf]BETAp]
+- The three risk measures above give different perspectives and may give different rankings for
+portfolios. A portfolio with low diversification may have a higher Treynor measure, a higher
+alpha, but a lower Sharpe measure than another portfolio.
+- Alpha can be modified by the use of other reference portfolios.
+### LO 11.2
+- Tracking error and the information ratio build upon Jensen’s alpha. Tracking error is the
+standard deviation of alpha over time. The information ratio is the average alpha over time
+divided by the tracking error.
+- The Sortino ratio should be used when there is more focus on the likelihood of loss:
+Sortino ratio = \[E(Rp) - Rmin ] / MSDmin^1/2
+- The MSDmin is a semi-variance that only measures the variability of the portfolio’s return
+observations below Rmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
