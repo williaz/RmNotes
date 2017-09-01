@@ -485,7 +485,51 @@ Sortino ratio = \[E(Rp) - Rmin ] / MSDmin^1/2
 - The MSDmin is a semi-variance that only measures the variability of the portfolio’s return
 observations below Rmin
 
+### LO 12.1
+- The inputs to a multifactor model, for any stock, are:
+  - Expected return for the stock.
+  - Factor betas.
+  - Deviation of macroeconomic factors from their expected values.
+  - Firm-specific return.
+- The factor beta equals the sensitivity of the stock return to a 1-unit change in the factor.
+- The firm-specific return is that portion of the stock’s return that is unexplained by the
+macro factors. The expected value of the firm-specific return equals zero, because, by
+definition, firm-specific events are random.
+### LO 12.2
+- The equation for a k- factor model is: R = E(R) + BETA1F1 + BETA2F2 + ... + BETAkFk+ e. The return
+equals its expected value if none of the macro factors deviate from their expected values and
+if the firm-specific return equals zero. If macro factor Fj deviates from its expected value,
+then Fj is nonzero. If the firm experiences a nonfactor related surprise, then the firm-specific
+component, e, will be nonzero. The multifactor model can be used to calculate the expected
+return after new macroeconomic and/or firm-specific information is released.
+### LO 12.3
+- Risk reduction benefits achieved through diversification come from reducing nonsystematic
+risk. Therefore, the expected return on a well-diversified portfolio is determined by
+systematic risk as measured by beta.
+- A single-factor security market line (SML) is analogous to the capital asset pricing model
+(CAPM). In the single-factor SML, systematic risk is measured as the exposure of the asset
+to a well-diversified market index portfolio. The index portfolio can be any well-diversified
+portfolio thought to be highly correlated with the systematic factor that affects the returns
+of assets. The equation for the single-factor SML for any well-diversified portfolio is:
+E(Rp) = Rf + BETAp\[E(Rm) - Rf] , where Rf is the risk-free rate, M is an observable welldiversified
+market index, and BETAp is the beta of any portfolio, P, relative to the market index.
+### LO 12.4
+- A multifactor model can be used to hedge away multiple factor risks. To do so, the investor
+can create factor portfolios, which are well-diversified portfolios with beta equal to one for a
+single risk factor, and betas equal to zero on the remaining risk factors. Factor portfolios can
+be used to hedge multiple risk factors
 
+### LO 12.5
+- The arbitrage pricing theory describes expected returns as a linear function of exposures to
+common (i.e., macroeconomic) risk factors: E(Rj) = Rf + BETAj1RP1 + BETAi2RP2 + ... + BETAjkRPk,
+where RPj is the risk premium associated with risk factor j.
+- The CAPM is a special case of the APT where there is only one priced risk factor (market
+risk).
+- The Fama-French three-factor model describes returns as a linear function of the market
+index return, firm size, and book-to-market factors. The firm size factor, SMB, equals the
+difference in returns between portfolios of small and big firms. The book-to-market factor,
+HML, equals the difference in returns between portfolios of high and low book-to-market
+firms.
 
 
 
