@@ -531,7 +531,37 @@ difference in returns between portfolios of small and big firms. The book-to-mar
 HML, equals the difference in returns between portfolios of high and low book-to-market
 firms.
 
-
+### LO 13.1
+- Benefits that accrue from effective risk data aggregation and reporting include: (1) an
+increased ability of managers and the board to anticipate problems, (2) enhanced ability
+to identify alternative routes to restore financial health in times of financial stress,
+(3) improved resolvability in the event of bank stress or failure, and (4) an enhanced ability
+to make strategic decisions, increasing the bank’s efficiency, reducing the chance of loss and
+ultimately increasing bank profitability.
+### LO 13.2
+- The governance principle (Principle 1) suggests that risk data aggregation should be part of
+the bank’s overall risk management framework. The board and senior management should
+assure that adequate resources are devoted to risk data aggregation and reporting.
+### LO 13.3
+- The data architecture and IT infrastructure principle (Principle 2) states that a bank should
+design, build, and maintain data architecture and IT infrastructure which fully supports its
+risk data aggregation capabilities and risk reporting practices not only in normal times but
+also during times of stress or crisis, while still meeting the other principles. It stresses that
+banks should devote considerable financial and human resources to risk data aggregation
+and reporting.
+### LO 13.4
+- Principles 3—6 specify standards and requirements for effective risk data aggregation. Banks
+should ensure that the data is accurate and has integrity (Principle 3), is complete (Principle
+4), is timely (Principle 5), and is adaptable to the end user (Principle 6). In addition, the
+bank should not have high standards for one principle at the expense of another. Aggregated
+risk data should exhibit all of the features together, not in isolation.
+### LO 13.5
+- Principles 7—11 specify standards and requirements for effective risk reporting practices.
+Risk reports should be accurate (Principle 7), comprehensive (Principle 8), and clear and
+useful (Principle 9). Principle 10 states that reports should be “appropriately frequent” (i.e.,
+frequency depends on the role of the recipient—board members need reports less frequently
+than risk committee members). Reports should be distributed to relevant parties in a timely
+fashion while maintaining confidentially (Principle 11).
 
 
 
