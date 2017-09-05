@@ -1,0 +1,45 @@
+### the time value of money
+- time value of money(TVM)
+- at the end of the investment horizon (FV - compounding.) or at the beginning of the investment horizon (PV - discounting).
+- think of I/Y as the interest rate per compounding period and N as the number of compounding periods under analysis
+- keys
+  - N = Number of compounding periods.
+  - I/Y = Interest rate per compounding period.
+  - PV = Present value.
+  - FV = Future value.
+  - PMT = Annuity payments, or constant periodic cash flow.
+  - CPT = Compute.
+
+- Equilibrium interest rates are the required rate of return for a particular investment
+  - interest rates = discount rates, opportunity cost of current consumption, required rate of return, and the cost of capital
+- The real risk-free rate of interest is a theoretical rate on a single period loan that has no expectation of inflation in it.
+  - T-bill(U.S. Treasury bills) rates are nominal risk-free rates because they contain an inflation premium.
+- Default risk: The risk that a borrower will not make the promised payments in a timely manner.
+- Liquidity risk: The risk of receiving less than fair value for an investment if it must be sold for cash quickly.
+- Maturity risk: the prices of longer-term bonds are more volatile than those of shorter-term bonds
+- An annuity is a stream of **equal** cash flows that occurs at equal intervals over a given period.
+  - The ordinary annuity is the most common type of annuity. It is characterized by cash flows that occur at the end of each compounding period.
+  - the PMT variable is a single periodic payment
+- A perpetuity is a financial instrument that pays a fixed amount of money at set intervals over an **infinite** period of time.
+  - British consul bonds and most preferred stocks are examples of perpetuities since they promise fixed interest or dividend payments forever.
+  - PVperp = PMT/(I/Y)
+- to find the PV or FV of this cash flow stream, all we need to do is sum the PVs or FVs of the individual cash flows
+- since an increase in the frequency of compounding increases the effective rate of interest, it also increases the FV of a given cash flow and decreases the PV of a given cash flow.
+  - m equal the number of compounding periods per year,
+  - I/Y = the annual interest rate / m
+  - N = the number of years x m
+- PV and FV must in diff sign
+
+
+
+
+
+
+
+
+
+
+
+
+
+
