@@ -30,6 +30,61 @@
   - N = the number of years x m
 - PV and FV must in diff sign
 
+### random variables
+#### LO 15.1: Describe and distinguish between continuous and discrete random variables.
+- A random variable is an uncertain quantity/number.
+- An outcome is an observed value of a random variable.
+- An event is a single outcome or a set of outcomes.
+- Mutually exclusive events are events that cannot happen at the same time.
+- Exhaustive events are those that include all possible outcomes.
+- A probability distribution describes the probabilities of all the possible outcomes for a random variable.
+- A discrete random variable is one for which the number of possible outcomes can be counted, and for each possible outcome, there is a measurable and positive probability.
+- A probability function, denoted p(x), specifies the probability that a random variable is equal to a specific value.
+- A continuous random variable is one for which the number of possible outcomes is infinite, even if lower and upper bounds exist.
+
+- It is customary to speak in terms of the probability of a range of possible price change
+
+
+### distribution function
+#### LO 13.2: Define and distinguish between the probability density function, the
+cumulative distribution function, and the inverse cumulative distribution function.
+
+- A probability density function (pdf) is a function, denoted f(x), that can be used to generate the probability that outcomes of a continuous distribution lie within a particular range of outcomes.
+  - For a discrete distribution, it is the equivalent of a probability function for a discrete distribution.
+  - for a continuous distribution, the probability
+of any one particular outcome (of the infinite possible outcomes) is zero. A pdf is used to calculate the probability of an outcome between two values
+- A cumulative distribution function (cdf), or simply distribution function, defines the probability that a random variable, X, takes on a value equal to or less than a specific value, x.
+- inverse cumulative distribution function can be used to find the value that corresponds to a specific probability.
+
+
+### discrete probability function
+#### LO 15.3: Calculate the probability of an event given a discrete probability function.
+- A discrete uniform random variable is one for which the probabilities for all possible outcomes for a discrete random variable are equal.
+
+### conditional probability
+#### LO 15.6: Define and calculate a conditional probability, and distinguish between conditional and unconditional probabilities.
+- Unconditional probability (i.e., marginal probability) refers to the probability of an event regardless of the past or future occurrence of other events.
+- A conditional probability is one where the occurrence of one event affects the probability of the occurrence of another event.
+  - P(A | B), where the vertical bar (|) indicates “given,” or “conditional upon.”
+  - A conditional probability of an occurrence is also called its likelihood.
+- The joint probability of two events is the probability that they will both occur.
+  - multiplication rule o f probability.
+  - P(AB) = P(A | B) x P(B)
+
+### independent and mutually exclusive events
+#### LO 15.4: Distinguish between independent and mutually exclusive events.
+- Independent events refer to events for which the occurrence of one has no influence on the occurrence of the others.
+- The addition rule fo r probabilities is used to determine the probability that at least one of two events will occur.
+
+
+
+
+
+
+
+
+
+
 
 
 
