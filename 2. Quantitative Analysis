@@ -80,6 +80,52 @@ of any one particular outcome (of the infinite possible outcomes) is zero. A pdf
 #### LO 15.5: Define joint probability, describe a probability matrix, and calculate joint probabilities using probability matrices.
 - Joint probabilities of independent events can be conveniently summarized using a probability matrix
 
+- statistics
+  - data
+  - Statistical methods
+    - Descriptive statistics are used to summarize the important characteristics of large data sets.
+    - Inferential statistics, which will be discussed in subsequent topics, pertain to the procedures used to make forecasts, estimates, or judgments about a large set of data on the basis of the statistical characteristics of a smaller set (a sample).
+- A population is defined as the set of all possible members of a stated group.
+- A sample is defined as a subset of the population of interest.
+
+
+### measure of central tendency
+#### LO 16.1: Interpret and apply the mean, standard deviation, and variance of a random variable.
+#### LO 16.2: Calculate the mean, standard deviation, and variance of a discrete random variable.
+- The sum of the deviations of each observation in the data set from the mean is always zero.
+- The median is the midpoint of a data set when the data is arranged in ascending or descending order.
+- The mode is the value that occurs most frequently in a data set.
+  - unimodal, bimodal, trimodal for one,two three value
+- The geometric mean is often used when calculating investment returns over multiple periods or when measuring compound growth rates.
+  - When calculating the geometric mean for a returns data set, it is necessary to add 1 to each value under the radical and then subtract 1 from the result.
+  - The geom etric mean is always less than or equal to the arithmetic mean, and the difference increases as the dispersion o f the observations increases.
+
+### expectations
+#### LO 16.3: Interpret and calculate the expected value of a discrete random variable.
+#### LO 16.5: Calculate the mean and variance of sums of variables.
+
+- E(X^2) =/= [E(X)]^2
+- The mean and variance of a distribution are defined as the first and second moments of the distribution, respectively.
+- Var(X) = E[(X - E(X))^2] = E(X^2) - [E(X)]^2
+- Var(aX + c) = a2 x Var(X)
+- Var(X - Y) = Var(X) + Var(Y), X, Y independent
+
+
+### covariance and correlation
+#### LO 16.4: Calculate and interpret the covariance and correlation between two random variables.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
