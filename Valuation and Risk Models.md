@@ -1,0 +1,51 @@
+- Value at risk (VaR) is a probabilistic method of measuring the potential loss in portfolio value over a given time period and for a given distribution of historical returns.
+- z: -2.33, -1.65, -1.28
+- VaR can be converted from a 1-day basis to a longer basis by multiplying the daily VaR by the square root of the number of days (J) in the longer time period (called the square root rule).
+
+- Linear methods replace portfolio positions with linear exposures on the appropriate risk factor.
+  - VaR developed by a delta-normal method is more accurate over shorter horizons than longer horizons.
+
+- Full valuation methods fully reprice the portfolio for each scenario encountered over a historical period, or over a great number of hypothetical scenarios developed through historical simulation or Monte Carlo simulation.
+  - The Monte Carlo simulation approach revalues a portfolio for a large number of risk factor values, randomly selected from a normal distribution. 
+  - Historical simulation revalues a portfolio using actual values for risk factors taken from historical data.
+
+#### LO 52.1: Explain how asset return distributions tend to deviate from the normal distribution.
+#### LO 52.2: Explain reasons for fat tails in a return distribution and describe their imphcations.
+#### LO 52.3: Distinguish between conditional and unconditional distributions.
+
+
+
+#### LO 52.4: Describe the implications of regime switching on quantifying volatility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
