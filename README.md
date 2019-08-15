@@ -221,7 +221,7 @@ of the generated series, (page 275)
 9. Describe disadvantages of the simulation approach to financial problem solving,
 (page 276)
 
-##
+## Financial Markets and Products
 
 ### 31. Banks
 1. Identify the major risks faced by a bank, (page 1)
@@ -363,28 +363,21 @@ each one is typically used in, and apply each to an interest calculation, (page 
 the accrued interest and dirty price on a US Treasury bond, (page 112)
 4. Explain and calculate a US Treasury bond futures contract conversion factor.
 (page 114)
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-Calculate the cost o f delivering a bond into a Treasury bond futures contract,
+5.Calculate the cost o f delivering a bond into a Treasury bond futures contract,
 (page 114)
-Describe the impact of the level and shape of the yield curve on the cheapest-todeliver
+6.Describe the impact of the level and shape of the yield curve on the cheapest-todeliver
 Treasury bond decision, (page 114)
-Calculate the theoretical futures price for a Treasury bond futures contract.
+7.Calculate the theoretical futures price for a Treasury bond futures contract.
 (page 115)
-Calculate the final contract price on a Eurodollar futures contract, (page 117)
+8.Calculate the final contract price on a Eurodollar futures contract, (page 117)
 Describe and compute the Eurodollar futures contract convexity adjustment,
 (page 117)
-Explain how Eurodollar futures can be used to extend the LIBOR zero curve,
+9.Explain how Eurodollar futures can be used to extend the LIBOR zero curve,
 (page 118)
-Calculate the duration-based hedge ratio and create a duration-based hedging
+10.Calculate the duration-based hedge ratio and create a duration-based hedging
 strategy using interest rate futures, (page 118)
-Explain the limitations of using a duration-based hedging strategy, (page 119)
+11.Explain the limitations of using a duration-based hedging strategy, (page 119)
+12.
 ### 40. Swaps
 1. Explain the mechanics o f a plain vanilla interest rate swap and compute its cash
 flows, (page 123)
@@ -544,7 +537,7 @@ defaults, and curtailments, (page 290)
 8. Describe the steps in valuing an MBS using Monte Carlo simulation, (page 292)
 9. Define Option Adjusted Spread (OAS), and explain its challenges and its uses.
 (page 295)
-
+## Valuation and Risk Models
 ### 52. Quantifying Volatility in VaR Models
 After completing this reading, you should be able to:
 1. Explain how asset return distributions tend to deviate from the normal distribution,
