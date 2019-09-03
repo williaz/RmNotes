@@ -5,21 +5,137 @@ quick, key words, 7, short
 After completing this reading, you should be able to:
 1. Describe and distinguish between continuous and discrete random variables.
 (page 13)
+  - A random variable is an **uncertain** quantity/number.
+  - An outcome is an **observed value** of a random variable.
+  - An event is a single outcome or a set of outcomes.
+  - Mutually exclusive events are events that cannot happen at the same time.
+  - Exhaustive events are those that include **all** possible outcomes.
+  - A probability distribution describes the probabilities of all the possible outcomes for
+a random variable.
+  - A discrete random variable is one for which the number of possible outcomes can be
+**counted**, and for each possible outcome, there is a **measurable** and positive probability.
+  - A probability function, denoted p(x), specifies the probability that a random variable is
+equal to a specific value.
+  - A continuous random variable is one for which the number of possible **outcomes is infinite**,
+even if lower and upper bounds exist.
+
+
 2. Define and distinguish between the probability density function, the cumulative
 distribution function, and the inverse cumulative distribution function, (page 15)
+  - A probability density function (pdf) is a function, denoted f(x), that can be used to
+generate the probability that outcomes of a continuous distribution lie within a particular
+**range** of outcomes.
+    - pf VS pdf
+  - A cumulative distribution function (cdf), or simply distribution function, defines the
+probability that a random variable, X, takes on a value **equal to or less** than a **specific value**,
+x.
+  - inverse
+cumulative distribution function can be used to find the value that corresponds to a
+**specific probability.
+
 3. Calculate the probability of an event given a discrete probability function, (page 16)
+  - A discrete uniform random variable is one for which the probabilities for all possible
+outcomes for a discrete random variable are **equal**.
+
 4. Distinguish between independent and mutually exclusive events, (page 19)
+  - Independent events refer to events for which the occurrence of one has **no influence** on the
+occurrence of the others.
+    - P(A | B) = P(A), or equivalently, P(B | A) = P(B)
+    - addition rule fo r probabilities: P(A or B) = P(A) + P(B) - P(AB)
+  - mutually exclusive events where the joint probability, P(AB), is zero
+  
 5. Define joint probability, describe a probability matrix, and calculate joint
 probabilities using probability matrices, (page 21)
+  - When dealing with independent events, the word and indicates multiplication, and the
+word or indicates addition.
+    - P(A or B) = P(A) + P(B), and P(A and B) = P(A) x P(B)
+  - Joint probabilities of independent events can be conveniently summarized using a
+probability matrix (sometimes known as a probability table).
+
 6. Define and calculate a conditional probability, and distinguish between conditional
 and unconditional probabilities, (page 18)
+  - Unconditional probability (i.e., marginal probability) refers to the probability of an event
+**regardless of** the past or future occurrence of other events.
+  - A conditional probability is one where the occurrence of one event affects the probability of
+the occurrence of another event.
+  - The joint probability of two events is the probability that they will **both occur**.
+  - multiplication rule o f probability: P(AB) = P(A | B) x P(B)
+  
 ### 16. Basic Statistics
 After completing this reading, you should be able to:
+- statistics is used to refer to data and the methods we use to analyze data.
+  - Descriptive statistics are used to summarize the important **characteristics** of large data
+sets.
+  - Inferential statistics pertain to the
+**procedures** used to make forecasts, estimates, or judgments about a **large set** of data on
+the **basis of** the statistical characteristics of a smaller set (a **sample**).
+- A population is defined as the set of **all possible members** of a stated group.
+
 1. Interpret and apply the mean, standard deviation, and variance of a random
 variable, (page 29)
+- mean
+  - The **arithmetic mean** is the only measure of **central tendency** for which the sum of the
+deviations from the mean is zero.
+      - To compute the **population mean**, all the observed values in the population are summed
+(EX) and divided by the number of observations in the population, N.
+      - The **sample mean** is the sum of all the values in a sample of a population, EX, divided
+by the number of observations in the sample, n. It is used to make **inferences** about the
+population mean
+      - mean deviaion = Xi - Xmean; sum == 0
+  - The **geometric mean** is often used when calculating investment returns over multiple
+periods or when measuring compound growth rates.
+  - The geometric mean is always **less than or equal to** the
+arithmetic mean, and the difference increases as the dispersion of the
+observations increases. The only time the arithmetic and geom etric means are
+equal is when there is no variability in the observations (i. e., all observations
+are equal).
+- The **median** is the midpoint of a data set when the data is arranged in ascending or
+descending **order**.
+  - **Outliers** occur, the median is a better measure of central tendency than the mean because it is not affected by extreme values
+- The mode is the value that occurs most frequently in a data set.
+  - distribution has 1 mode: uimodal; bimodal, trimodal
+- The mean and variance of a distribution are defined as the first and second moments of the
+distribution,
+- Variance: Var(X) = E \[(X - u)^2], The square root of the variance is called the standard deviation
+  - The variance and standard
+deviation provide a measure of the **extent of the dispersion** in the values of the random
+variable around the mean.
+```
+1. Var(X) = E[(X - p)2] = E(X2) - [E(X)]2
+where p = E(X)
+2. If c is any constant, then:
+Var(c) = 0
+3. If c is any constant, then:
+Var(cX) = c^2 x Var(X)
+4. If c is any constant, then:
+Var(X + c) = Var(X)
+3. If a and c are constants, then:
+Var(aX + c) = a^2 x Var(X)
+6. If Xand Yare independent random variables, then:
+Var(X + Y) = Var(X) + Var(Y)
+Var(X - Y) = Var(X) + Var(Y)
+7. If Xand Yare independent and a and c are constants, then:
+Var(aX + cY) = a^2 x Var(X) + c^2 x Var(Y)
+```
 2. Calculate the mean, standard deviation, and variance of a discrete random variable,
 (page 29)
 3. Interpret and calculate the expected value of a discrete random variable, (page 34)
+- The expected value is the **weighted average** of the possible outcomes of a random variable,
+where the weights are the probabilities that the outcomes will occur.
+```
+1. If c is any constant, then:
+E(cX) = cE(X)
+2. If Xand Yare any random variables, then:
+E(X + Y) = E(X) + E(Y)
+3. If c and a are constants, then:
+E(cX + a) = cE(X) + a
+4. If X and Y are independent random variables, then:
+E(XY) = E(X) x E(Y)
+3. If X and Y are NOT independent, then:
+E(XY) <> E(X) x E(Y)
+6. If X is a random variable, then:
+E(X^2) <> [E(X)]^2
+```
 4. Calculate and interpret the covariance and correlation between two random
 variables, (page 38)
 5. Calculate the mean and variance of sums of variables, (page 34)
