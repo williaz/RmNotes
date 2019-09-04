@@ -138,12 +138,109 @@ E(X^2) <> [E(X)]^2
 ```
 4. Calculate and interpret the covariance and correlation between two random
 variables, (page 38)
+- Covariance is the expected value of the product of the deviations of the two random
+variables from their respective expected values.
+  - Cov(Ri,Rj) = E{\[Ri - E(Ri)] \[Rj - E(Rj)]} = E(Ri, Rj) - E(Ri)E(Rj)
+
+- correlation (correlation coefficient): easier to interpret
+  - cov divided by the product of the random variables’ standard deviations.
+  - p(Ri,Rj)
+  - 2 variables
+  - [generte correlated random num](https://stats.stackexchange.com/questions/38856/how-to-generate-correlated-random-numbers-given-means-variances-and-degree-of)
+  
+  
+```
+• Correlation measures the strength of the linear relationship between two random
+variables.
+• Correlation has no units.
+• The correlation ranges from -1 to +1. That is, —1 < Corr(Rj, R-)< +1.
+• If Corr(Rj, Rj) = 1.0, the random variables have perfect positive correlation. This means
+that a movement in one random variable results in a proportional positive movement in
+the other relative to its mean.
+• If Corr(Rj, R.) = —1.0, the random variables have perfect negative correlation. This
+means that a movement in one random variable results in an exact opposite proportional
+movement in the other relative to its mean.
+• If Corr(Rj, R ) = 0, there is no linear relationship between the variables, indicating that
+prediction of R cannot be made on the basis of i?- using linear methods.
+```
+1. If X and Y are independent random variables, then:
+Topic 16
+Cross Reference to GARP Assigned Reading - Miller, Chapter 3
+Cov(X,Y) = 0
+2. The covariance of random variable A with itself is the variance of X.
+Cov(X,X) = Var(X)
+3. If a, b, c, and d are constants, then:
+Cov(a + bX, c + dY) = b x d x Cov(X,Y)
+4. IfXand Fare NOT independent, then:
+Var(X + Y) = Var(X) + Var(Y) + 2 x Cov(X,Y)
+Var(X - Y) = Var(X) + Var(Y) - 2 x Cov(X,Y)
+```
+
 5. Calculate the mean and variance of sums of variables, (page 34)
+
 6. Describe the four central moments of a statistical variable or distribution: mean,
 variance, skewness and kurtosis. (page 42)
+- The shape of a probability distribution can be described by the “moments” of the
+distribution. 
+- Raw moments are measured relative to an expected value raised to the
+appropriate power.
+  - Kth raw moment is the expected value of Rk:
+  - The first raw moment is the mean of the distribution, which is the expected value of returns
+- Central moments are measured relative to the mean (i.e., central around the mean).
+  - first central moment: 0
+  - The second central moment is the variance of the distribution, which measures the dispersion of data.
+  - The third central moment measures the departure from symmetry in the distribution.
+    - zero for a **symmetric** distribution (such as the normal distribution).
+    - skewness: standardized third central moment, divided by var^3
+  - The fourth central moment measures the degree of clustering in the distribution.
+    - kurtosis: standardized fourth central moment of the distribution.
+    - Kurtosis refers to the degree of **peakedness** or clustering in the data distribution
+    - Kurtosis for the normal distribution equals **3**.
+    - excess kurtosis = kurtosis — 3
 7. Interpret the skewness and kurtosis of a statistical distribution, and interpret the
 concepts of coskewness and cokurtosis. (page 44)
+- Skewness
+  - Positively skewed distribution: many outliers in the upper region, or right tail.
+    - long uppper tail
+    - mode < median < mean
+  - negatively skewed: skew left
+    - long lower tail
+    - mean < median < mode
+- Kurtosis
+  - Leptokurtic: more peaked, fat tail
+  - Platykurtic: flatter
+  - Mesokurtic: normal 
+- greater positive kurtosis and more negative skew in returns distributions indicates increased
+risk.
+- The third
+cross central moment is known as coskewness and the fourth cross central moment is
+known as cokurtosis.
+```
+most risk models choose to ignore the effects of coskewness and cokurtosis. The reason being is that
+as the number of variables increase, the number of coskewness and cokurtosis terms will
+increase rapidly, making the data much more difficult to analyze. Practitioners instead
+opt to use more tractable risk models, such as GARCH (see Topic 28), which capture the
+essence of coskewness and cokurtosis by incorporating time-varying volatility and/or timevarying
+correlation.
+```
 8. Describe and interpret the best linear unbiased estimator, (page 48)
+- Point estimates
+are single (sample) values used to estimate population parameters, and the formula used
+to compute a point estimate is known as an estimator.
+- An **unbiased** estimator is one for which the expected value of the estimator is equal to the
+parameter you are trying to estimate.
+  - sample mean to population
+- An unbiased estimator is also **efficient** if the variance of its sampling distribution is
+**smaller** than all the other unbiased estimators of the parameter you are trying to
+estimate.
+- A **consistent** estimator is one for which the accuracy of the parameter estimate increases as
+the sample **size increases**
+- A point estimate is a linear estimator when it can be used as a linear function of sample
+data.
+- best linear unbiased estimator (BLUE): If the estimator is the best available (i.e., has the minimum variance), exhibits linearity, and
+is unbiased
+
+
 ### 17. Distributions
 After completing this reading, you should be able to:
 1. Distinguish the key properties among the following distributions: uniform
