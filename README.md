@@ -242,12 +242,47 @@ is unbiased
 
 
 ### 17. Distributions
+- Probability distributions
+  - Parametric distributions, such as a normal distribution, can be described by using a
+mathematical function.
+  - Nonparametric distributions, such as a historical
+distribution, cannot be described by using a mathematical function.
+
 After completing this reading, you should be able to:
-1. Distinguish the key properties among the following distributions: uniform
+1. Distinguish the key **properties** among the following distributions: uniform
 distribution, Bernoulli distribution, Binomial distribution, Poisson distribution,
 normal distribution, lognormal distribution, Chi-squared distribution, Student’s
-t, and F-distributions, and identify common occurrences of each distribution.
+t, and F-distributions, and identify **common occurrences** of each distribution.
 (page 53)
+- The continuous uniform distribution is defined over a range that spans between some
+lower limit, a, and some upper limit, b, which serve as the parameters of the distribution.
+  - P(X < a or X > b) = 0
+  - P(x1 < X < x2) = (x2 — x1)/(b — a).
+  - probability density function (pdf): f(x) = 1 / (b - a)
+  - E(x) = (a + b) / 2
+  - Var(x) = (b - a)^2 / 12
+- A Bernoulli distributed random variable only has two possible outcomes.
+- A binomial random variable may be defined as the number of “successes” in a given
+number of trials, whereby the outcome can be either “success” or “failure.”
+  - p(x) = P(X = x) = n!/[(n - x)! x!] p^x (1 - p)^(n - x)
+  - E(X) = np
+  - Var(X) = np(1 - p) = npq
+- While the Poisson random variable X refers to the number o f successes p er unit, the parameter
+lambda refers to the average or expected number o f successes p er unit.
+  - P(X = x) = lbd^x e ^(-lbd) / x!
+- normal distribution
+  - X is normally distributed with mean u and variance v2
+  - Skewness = 0
+  - Kurtosis = 3
+  - A linear combination of normally distributed independent random variables is also normally distributed.
+  - A confidence interval is a range of values around the expected outcome within which we expect the actual outcome to be some specified percentage of the time.
+    - The 90% confidence interval for X is X - 1.65s to X + 1.65s.
+    - The 95% confidence interval for X is X - 1.96s to X + 1.96s.
+    - The 99% confidence interval for X is X — 2.58s to X + 2.58s.
+- A standard normal distribution (i.e., ^-distribution) is a normal distribution that has been
+standardized so it has a mean of zero and a standard deviation of 1 [i.e., N~(0,1)].
+  - z = (observation — population mean) / standard deviation
+  
 2. Describe the central limit theorem and the implications it has when combining
 independent and identically distributed (i.i.d.) random variables, (page 66)
 3. Describe i.i.d. random variables and the implications of the i.i.d. assumption when
