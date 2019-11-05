@@ -136,7 +136,7 @@ E(XY) <> E(X) x E(Y)
 6. If X is a random variable, then:
 E(X^2) <> [E(X)]^2
 ```
-4. Calculate and interpret the covariance and correlation between two random
+- [x] 4. Calculate and interpret the covariance and correlation between two random
 variables, (page 38)
 - Covariance is the expected value of the product of the deviations of the two random
 variables from their respective expected values.
@@ -162,7 +162,7 @@ means that a movement in one random variable results in an exact opposite propor
 movement in the other relative to its mean.
 • If Corr(Rj, R ) = 0, there is no linear relationship between the variables, indicating that
 prediction of R cannot be made on the basis of i?- using linear methods.
-```
+
 1. If X and Y are independent random variables, then:
 Topic 16
 Cross Reference to GARP Assigned Reading - Miller, Chapter 3
@@ -176,7 +176,7 @@ Var(X + Y) = Var(X) + Var(Y) + 2 x Cov(X,Y)
 Var(X - Y) = Var(X) + Var(Y) - 2 x Cov(X,Y)
 ```
 
-5. Calculate the mean and variance of sums of variables, (page 34)
+- [ ] 5. Calculate the mean and variance of sums of variables, (page 34)
 
 6. Describe the four central moments of a statistical variable or distribution: mean,
 variance, skewness and kurtosis. (page 42)
@@ -1031,35 +1031,276 @@ operational risks, (page 241)
 mitigate operational risks, (page 243)
 ### 67. Governance Over Stress Testing
 After completing this reading, you should be able to:
-1. Describe the key elements of effective governance over stress testing, (page 249)
-2. Describe the responsibilities of the board of directors and senior management in
-stress testing activities, (page 249)
-3. Identify elements of clear and comprehensive policies, procedures, and
-documentations on stress testing, (page 231)
-4. Identify areas of validation and independent review for stress tests that require
-attention from a governance perspective, (page 252)
-5. Describe the important role of the internal audit in stress testing governance and
+- [x] 1. Describe the key elements of effective governance over stress testing, (page 249)
+- Key elements of effective governance and controls over stress testing include the governance structure, policies and procedures, documentation, validation and independent review, and internal audit.
+
+-[x] 2. Describe the responsibilities of the board of directors and senior management in stress testing activities, (page 249)
+- The board of directors has oversight for an organization’s key strategies and decisions and
+is responsible and accountable for the entire organization. allowing the board to take actions that include adjusting capital levels, increasing liquidity, adjusting risks, or engaging in or withdrawing from certain activities.
+- Senior management is accountable to the board and is responsible for the satisfactory implementation of the stress testing activities authorized by the board; To avoid inconsistencies, gaps, or problems, management must ensure that stress test assumptions remain transparent and are used in a clear manner.
+
+
+- [x] 3. Identify elements of clear and comprehensive policies, procedures, and documentations on stress testing, (page 231)
+```
+• Describing the overall purpose of stress tests.
+• Establishing consistent and adequate stress testing practices.
+• Describing roles and responsibilities, including influences over external resources (e.g.,
+vendors and data providers).
+• Determining frequency and priority of stress testing activities.
+• Outlining the stress test process, including scenario design and selection.
+• Disclosing the validation and review process.
+• Providing transparency to third parties regarding the stress testing process, which allows
+third parties to evaluate the tests and their components.
+• Indicating the use of stress tests and their users and any remedial actions.
+• Updating and reviewing policies and procedures to remain consistent with the
+institution’s risk appetite, risk exposures, and changing market conditions.
+```
+
+
+- [x] 4. Identify areas of validation and independent review for stress tests that require attention from a governance perspective, (page 252)
+- Prudent governance should also incorporate ongoing validation and independent review of stress testing activities. These should be done in an unbiased manner using a critical review to ensure stress tests were conducted appropriately. Validation and independent review of stress tests should be incorporated into an institution’s overall validation and review processes.
+
+- To enhance the usefulness of validating stress tests, institutions should include nonstress periods (i.e., the “good times” periods) in their models to test their predictive power.
+
+- [x] 5. Describe the important role of the internal audit in stress testing governance and
 control, (page 252)
-6. Identify key aspects of stress testing governance, including stress testing coverage,
-stress testing types and approaches, and capital and liquidity stress testing.
-(page 253)
+
+- It is intended to assess the integrity and reliability of an institution’s policies and procedures, including those pertaining to stress tests.
+
+- [x] 6. Identify key aspects of stress testing governance, including stress testing coverage, stress testing types and approaches, and capital and liquidity stress testing. (page 253)
+```
+Stress Testing Coverage
+• Stress testing results may exclude important factors, including portfolios, liabilities, and
+exposures. As a result, it is important that institutions provide appropriate coverage for
+stress testing and document what factors are and are not covered.
+• Stress testing coverage can be applied to individual exposures, to the entire institution, or
+to various sublevels within an institution.
+• Stress testing should incorporate the relationship between various risks and exposures,
+and detect risk concentrations and causes of risks that could negatively impact the
+institution.
+• Coverage should be applied on both a short-term and long-term basis.
+Stress Testing Types and Approaches
+• When stress testing includes scenario analysis, the scenarios selected should be
+sufficiently robust to be credible to stakeholders (internal and external).
+• Scenarios should consider the firm-specific and system-wide impacts of stresses both
+based on historical analysis and on hypothetical scenarios.
+• Cumulative and knock-on effects should be carefully considered.
+• For stresses that are done on a firm-wide basis, it is necessary for all business lines to use
+the same stress assumptions to ensure consistency.
+• Stress testing types should include those that extend beyond traditional risk expectations
+(these include reverse stress tests that “break the bank”) and challenge the entire
+institution’s viability. This is true even if estimation may be problematic.
+Capital and Liquidity Stress Testing
+• Capital and liquidity stress testing should be harmonized with overall strategy and
+planning, and the results should be updated for all material results and events.
+• Stress tests should consider the impact of multiple simultaneous risks on earnings, losses,
+cash flows, capital, and liquidity.
+• Stress testing should aid in contingency planning by identifying excess exposures and
+areas where liquidity and capital positions can be strengthened, or by identifying actions
+that are otherwise not possible during stressed times (i.e., raising capital).
+• Stress testing should consider the effect on subsidiaries that encounter liquidity and
+capital issues.
+• Stress testing should also look at capital and liquidity problems that can arise
+simultaneously and thereby magnify risks. For example, an institution may need to sell
+assets at depressed market prices or incur funding costs at above-market rates.
+• With respect to capital and liquidity funding costs, institutions should clearly articulate
+their objectives.
+
+```
+
+
+```
+LO 67.1
+Stress tests should be conducted appropriately under adequate oversight as part of an
+institution’s governance and controls.
+Key elements of effective governance and controls over stress testing include the governance
+structure, policies and procedures, documentation, validation and independent review, and
+internal audit.
+LO 67.2
+The board of directors is accountable for the entire organization and must be sufficiently
+knowledgeable about the organization’s stress testing activities.
+Stress testing results inform the board of the institution’s risk appetite and profile and
+operating and strategic decisions, and they may serve as early warning signs of upcoming
+pressures.
+Boards should actively challenge the results of stress tests and supplement them with other
+tests as well as both quantitative and qualitative information.
+Senior management, with oversight from the board, is responsible for establishing robust
+policies for stress tests, which could supplement other risk, capital, and adequacy measures.
+Management is also responsible for reviewing and coordinating stress test activities,
+assigning competent staff, challenging results and assumptions, and incorporating remedies
+to potential problems.
+Senior management should ensure that there is a sufficient range of stress testing activities
+to evaluate risks. Results should be benchmarked and regularly updated given that risks,
+data sources, and the operating environment can change. An independent auditor should
+verify test results.
+Senior management should regularly report to the board of directors on stress testing results
+in a clear and concise way, highlighting the key elements of the stress testing activities and
+any limitations.
+LO 67.3
+Stress testing activities should be governed by clear and comprehensive policies and
+procedures that are updated annually and documented in an appropriate manner.
+Appropriate documentation allows senior management to track and analyze results over
+time.
+Documentation should include a description of the stress tests, main assumptions, results,
+limitations, and any proposed remedies. Those responsible for documentation should be
+given incentives given the complexity and time-consuming nature of preparing documents.
+Documentation received from external parties should be reviewed.
+Stress test policies, procedures, and documentation should address a range of issues,
+including describing the purpose and process of stress test activities, establishing consistent
+and adequate practices, defining roles and responsibilities, determining the frequency and
+priority of stress testing activities, and describing proposed remedies.
+
+LO 67.4
+Ongoing validation and independent review of stress testing activities is an important
+component of an institution’s governance. Validation and independent review should be
+unbiased and critical, and they should form part of the institution’s overall validation and
+review processes.
+Results should be compared with appropriate benchmarks that reflect the institution’s risks
+and exposures.
+Stress tests for nonstress periods (i.e., “good times”) should be incorporated into an
+institution’s model to test their predictive power and usefulness. Models used in nonstress
+periods may require a different set of assumptions given changing risks, correlations, and
+behavior by market participants.
+Institutions do not need to fully validate stress tests, but limitations, challenges, and
+proposed remedies should be communicated and disclosed in a transparent manner.
+Validation and independent review should challenge the review process and the qualitative
+components of the stress test, implement development standards, validate and implement
+stress tests, and monitor performance.
+LO 67.5
+The internal audit assesses the integrity and reliability of policies and procedures. It should
+verify that stress tests are conducted thoroughly and as intended, by staff with the relevant
+expertise.
+The internal audit should also review the procedures relating to the documentation, review,
+and approval of stress tests. Any deficiencies should be identified.
+LO 67.6
+An institution’s governance framework should incorporate stress testing coverage, stress
+testing types and approaches, and capital and liquidity stress testing.
+Stress testing coverage should incorporate the relationship between risks and exposures in
+the short term and long term, and detect risk concentrations that could negatively impact
+an institution. Coverage can be applied to individual exposures, the entire institution, or
+various sublevels within an institution.
+Stress testing types and approaches should consider the firm-specific and system-wide
+impacts of stresses from historical and hypothetical scenarios, and should include stresses
+that challenge the entire institution’s viability. When stress testing is complemented with
+scenario analysis, scenarios should be robust and credible.
+Capital and liquidity stress testing should be harmonized with overall strategy and planning
+and updated for all material results and events. The impact of multiple simultaneous
+risks should be considered, including capital and liquidity problems that could arise
+simultaneously and magnify risks. Objectives for capital and liquidity funding costs should
+be clearly articulated. Excess exposures and areas should be identified where liquidity and
+capital positions can be strengthened.
+
+```
+
 ### 68. Stress Testing and Other Risk Management Tools
 After completing this reading, you should be able to:
-1. Describe the relationship between stress testing and other risk measures, particularly
-in enterprise-wide stress testing, (page 260)
-2. Describe the various approaches to using VaR models in stress tests, (page 261)
-3. Explain the importance of stressed inputs and their importance in stressed VaR.
+- [x] 1. Describe the relationship between stress testing and other risk measures, particularly in enterprise-wide stress testing, (page 260)
+- Both stress tests and VaR measures [including economic capital (EC) measures] attempt to transform scenarios into loss estimates.
+- 1. Stress tests usually define losses from an **accounting perspective**, while VaR/EC measures usually take a market view of losses (i.e., deducting the opportunity cost of equity capital).
+- 2. Historically, stress tests have looked at **longer time horizons**, whereas VaR/EC measures have looked at point-in-time losses only.
+- 3. Stress tests do not focus on probabilities, but instead focus on ordinal **rankings** such as “severe,” “very severe,” and “extremely severe.” In contrast, VaR/EC measures focus on cardinal probabilities when interpreting the results of using Monte Carlo simulation (i.e., complicated statistical models) or historical simulation (i.e., actual past results). For example, a 99% VaR loss is interpreted as a 1-in-100 event.
+- Additionally, stress tests usually develop scenarios that are **conditional**. For example, regulatory stress tests tend to use the current period as a departure point in order to develop several hypothetical scenarios. In contrast, VaR/EC measures tend to develop unconditional scenarios.
+
+- [x] 2. Describe the various approaches to using VaR models in stress tests, (page 261)
+- expected loss = PD x LGD x EAD
+  - where:
+  - PD = probability of default
+  - LGD = loss given default
+  - EAD = exposure at default
+- Merton model to simulate defaults and credit quality.
+  - With this model, asset returns are simulated using a factor model and default would occur when the simulated asset value falls short of a threshold (related to the borrower’s leverage) at the end of one year.
+- An alternate approach to measuring loss and likelihood of a particular scenario is to use stressed inputs.
+
+- [x] 3. Explain the importance of stressed inputs and their importance in stressed VaR.
 (page 261)
-4. Identify the advantages and disadvantages of stressed risk metrics, (page 262)
+- The revised Basel market risk capital framework mandates the use of stressed inputs— for example, a stressed value at risk (SVaR) measure.
+- The Basel III revisions mandate the use of stressed parameters to calculate the default risk capital charge for counterparty credit risk.
+- The CVA represents the expected value or price of counterparty credit risk
+
+- [x] 4. Identify the advantages and disadvantages of stressed risk metrics, (page 262)
+- A key advantage of using stressed risk metrics is that they are conservative
+- On the other hand, a key disadvantage is that risk metrics are stressed and will not necessarily respond to current market conditions. Instead, they will be impacted mainly by portfolio assets.
+
+
+```
+LO 68.1
+Stress tests and value at risk (VaR) and economic capital (EC) measures attempt to
+transform scenarios into loss estimates. The loss estimates’ distributions provide the basis to
+compute VaR at a very high confidence level. Stress tests tend to look at far fewer scenarios
+compared to VaR measures. Additionally, stress tests usually develop scenarios that are
+conditional, while VaR/EC measures tend to develop unconditional scenarios.
+LO 68.2
+VaR/EC models compute expected losses using the following general formula:
+expected loss = PD x LGD x EAD
+In an attempt to assign a probability to a hypothetical or historical stress scenario, one could
+determine where the stress test losses fall within the VaR/EC loss distribution. By assigning
+probabilities to outcomes, the calculated probability from the loss distribution facilitates the
+implementation of stress test results.
+LO 68.3
+Stressed inputs have been used in analyzing market risk and for both supervisory and
+internal purposes within financial institutions. There is a mandated use of stressed inputs,
+stress tests, and stressed parameters by the Basel Accords. Stressed VaR can be used to
+analyze the potential losses for an investment portfolio. In addition, it can be used to
+compute the capital charge for credit valuation adjustments (CVAs).
+LO 68.4
+A key advantage of using stressed risk metrics is that they are conservative. A key
+disadvantage is that risk metrics will not necessarily respond to current market conditions.
+```
+
 ### 69. Principles for Sound Stress Testing Practices and Supervision
 After completing this reading, you should be able to:
-1. Describe the rationale for the use of stress testing as a risk management tool.
-(page 266)
-2. Describe weaknesses identified and recommendations for improvement in:
+- [x] 1. Describe the rationale for the use of stress testing as a risk management tool. (page 266)
+- Stress testing is an important risk management tool that enables a bank to identify the potential sources of risk, evaluate the magnitude of risk, develop tolerance levels for risk, and generate strategies to mitigate risk.
+
+
+- [x] 2. Describe weaknesses identified and recommendations for improvement in:
 • The use of stress testing and integration in risk governance
 • Stress testing methodologies
 • Stress testing scenarios
 • Stress testing handling of specific risks and products (page 267)
-3. Describe stress testing principles for banks regarding the use of stress testing and
-integration in risk governance, stress testing methodology and scenario selection,
-and principles for supervisors, (page 267)
+- [x] 3. Describe stress testing principles for banks regarding the use of stress testing and integration in risk governance, stress testing methodology and scenario selection, and principles for supervisors, (page 267)
+- banks should use multiple techniques, ranging from sensitivity analysis (examining impact of one risk factor on a bank’s performance holding all other factors constant), to scenario analysis (examining various scenarios one at a time), to risk simulation (examining the impact of multiple risk factors and interactions simultaneously).
+
+- Sound infrastructure should enable a bank to aggregate risk exposures quickly, alter methodologies, generate new scenarios, and conduct ad-hoc stress testing under extreme conditions.
+- It should examine the impact of stress events (shocks) on risk factors while taking into consideration feedback and spillover effects due to correlations
+- scenarios should involve testing both at the single entity (a specific product or business line) level and at the entire firm level.
+
+```
+LO 69.1
+Stress testing is an important tool that enables a bank to identify, assess, monitor, and
+manage risk. Recent financial turmoil has substantially increased the need for flexible,
+comprehensive, and forward-looking stress testing.
+LO 69.2
+Major weaknesses and recommendations for stress testing and integration in risk
+governances are as follows. Weaknesses: lack of involvement of board and senior
+management, lack of overall organizational view, lack of fully developed stress testing, lack
+of adequate response to crisis. Recommendations: Stress testing should form an essential
+ingredient of overall governance of risk management plan, encompass multiple techniques
+and perspectives, involve a sound infrastructure and regular assessment, produce written
+policies and recommendations, and generate comprehensive firm and market-wide scenario
+testing.
+Stress testing methodologies were based on inadequate infrastructure, inadequate risk
+assessment approaches, inadequate recognition of correlation, and inadequate firmwide
+perspectives. Given these weaknesses, recommendations for improvement include
+development of a comprehensive stress testing approach, identification and control of risk
+concentrations, and multiple measurements of stress impact.
+Stress testing scenarios lacked depth and breadth because they were based on mild shocks,
+shorter duration, and smaller correlation effects among various markets, portfolios, and
+positions.
+Banks evaluated the risk of complex structured products based on the credit rating of
+similar cash instruments. However, the nature, magnitude, and sources of risk for these
+products are different from non-structured products. In order to identify, assess, monitor,
+and control risk exposure of complex structured products, stress testing plans should utilize
+all the relevant information about the underlying asset pool, market conditions, contractual
+obligations, and subordination levels.
+Historically, stress testing has not fully recognized funding liquidity risk and its correlation
+with other risks in times of crises. Future stress tests should focus more on correlations of
+various factors and risks, including funding liquidity risk.
+LO 69.3
+Principles for sound stress testing supervision include: assessing stress testing methods,
+taking corrective actions, challenging firm-wide scenarios, evaluating capital and liquidity
+needs, applying additional stress scenarios, and consulting additional resources.
+```
+
+
+
