@@ -283,10 +283,14 @@ lambda refers to the average or expected number o f successes p er unit.
 standardized so it has a mean of zero and a standard deviation of 1 [i.e., N~(0,1)].
   - z = (observation — population mean) / standard deviation
   
-2. Describe the central limit theorem and the implications it has when combining
+2. Describe the **central limit** theorem and the implications it has when combining
 independent and identically distributed (i.i.d.) random variables, (page 66)
 3. Describe i.i.d. random variables and the implications of the i.i.d. assumption when
 combining random variables, (page 66)
+- If the sample size n is sufficiently large (n > 30), the sampling distribution of the sample means will be approximately normal. Remember what’s going on here: random samples of size n are repeatedly being taken from an overall larger population. Each of these random samples has its own mean, which is itself a random variable, and this set of sample means has a distribution that is approximately normal.
+- The mean of the population, p, and the mean of the distribution of all possible sample means are equal.
+- The variance of the distribution of sample means is — , the population variance divided by the sample size.
+
 4. Describe a mixture distribution and explain the creation and characteristics of
 mixture distributions, (page 70)
 
