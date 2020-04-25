@@ -45,6 +45,24 @@ loss possibility
 
 u +/- 1.65o
 
+- Profit/Loss
+  - P/L: substraction
+  - Arithmetic Return: r: ratio
+  - Geometric Return: Rt: log ratio, = ln(1 + r)
+    - diff is negligible in short term, may substantial long term
+- VaR
+  - normal VaR
+    - arithmetic return is normal
+    - geometric return is normal: 1- e^avar
+  - Cohension risk measure
+    - weighed VaR
+    - eventually converge as num of slice larger
+  - Conditional VaR: expected shortfall, E on value left of VaR
+- Quantile-Quantile Plots
+  - test if data fit a distribution -> linear
+
+
+
 
 
 
