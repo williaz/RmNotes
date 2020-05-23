@@ -1,4 +1,4 @@
-MArket Risk
+Market Risk
 1. VaR
 2. Backtesitng VaR
 3. Correlation Risk
@@ -60,6 +60,37 @@ u +/- 1.65o
   - Conditional VaR: expected shortfall, E on value left of VaR
 - Quantile-Quantile Plots
   - test if data fit a distribution -> linear
+
+## Risk Management and Portfolio management
+### Factor Theory
+- risk factor
+  - diff under diff circumstance
+  - not asset
+  - will be compensated by risk premiums
+  - CAPM: beta
+  - SDF: stochastic discount factors
+  - Multifactor model: like APT(arbitrage pricing theory)
+- Gold: assets paying off in bad times have **low** risk premiums(>0), in some circumtance, they are also defined as valuable assets 
+- Efficient Market Theory: weak, semi-strong, and strong efficiency; nearly efficiency
+- There are seven major shortcomings of CAPM
+ - Investors only have financial wealth.(human wealth)
+ - Investors have mean-variance utility.
+ - Investors have single period investment horizon. 
+ - Investors have homogeneous (identical) expectations.
+ - Market are frictionless. 
+ - All investors are price takers. (can't affect market)
+ - Information is free and available to everyone.
+ 
+
+
+
+
+
+
+
+
+
+
 
 
 
