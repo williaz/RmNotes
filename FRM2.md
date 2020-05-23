@@ -73,13 +73,13 @@ u +/- 1.65o
 - Gold: assets paying off in bad times have **low** risk premiums(>0), in some circumtance, they are also defined as valuable assets 
 - Efficient Market Theory: weak, semi-strong, and strong efficiency; nearly efficiency
 - There are seven major shortcomings of CAPM
- - Investors only have financial wealth.(human wealth)
- - Investors have mean-variance utility.
- - Investors have single period investment horizon. 
- - Investors have homogeneous (identical) expectations.
- - Market are frictionless. 
- - All investors are price takers. (can't affect market)
- - Information is free and available to everyone.
+  - Investors only have financial wealth.(human wealth)
+  - Investors have mean-variance utility.
+  - Investors have single period investment horizon. 
+  - Investors have homogeneous (identical) expectations.
+  - Market are frictionless. 
+  - All investors are price takers. (can't affect market)
+  - Information is free and available to everyone.
  
 
 
