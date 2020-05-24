@@ -81,10 +81,35 @@ u +/- 1.65o
   - All investors are price takers. (can't affect market)
   - Information is free and available to everyone.
  
+- factor types
+  - marco, fundamental-based
+    - economic growth: -
+    - Inflation: -
+    - volatility: - realized return
+      - vol protection: volatility swap, out-of-money puts
+    - productivity(GDP)
+    - demographic(labor)
+    - prolitical(sovereign)
+  - investement style
+    - static
+    - dynamic
+      - value and size
+        - divident, EPS
+        - HML: book value
+        - SMB: cap
+      - Momentum: WML
+        - Matthew effect
 
-
-
-
+- Alpha(low risk anomaly)
+  - Benchmark
+    - well defined
+    - tradable
+    - replicable
+    - adjusted for risk
+      - factor regression: risk-adjusted factor benchmark 
+  - Rt = alpha + (1 - beta)Rf + betaRb + err
+       = alpha + Rf + beta(Rb - Rf) + err
+       = Jensen's alpha + CAPM(new Benchmark)
 
 
 
