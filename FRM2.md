@@ -100,7 +100,7 @@ u +/- 1.65o
       - Momentum: WML
         - Matthew effect
 
-- Alpha(low risk anomaly)
+- Alpha
   - Benchmark
     - well defined
     - tradable
@@ -110,11 +110,27 @@ u +/- 1.65o
   - Rt = alpha + (1 - beta)Rf + betaRb + err
        = alpha + Rf + beta(Rb - Rf) + err
        = Jensen's alpha + CAPM(new Benchmark)
+  - style analysis
+    - style weight
+- low risk anomaly
+  - risk anomaly explaination
+    - data mining
+    - leverage constraints
+    - agency problem: can't short
+    - preference
 
-
-
-
-
+### Portfolio construction
+- portfolio construction inputs
+  - transaction cost
+  - alpha
+    - refining alpha
+      - scale the alpha: = vol x IC(info coefficient) x Score
+    - trim alpha outliners: +/- 2.5%
+    - neutralization: benchmark
+  - current portfolio
+  - covarience
+  - active risk aversion: customer type; lambda = IR / (2 TEV)
+  
 
 
 
