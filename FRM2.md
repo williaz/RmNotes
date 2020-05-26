@@ -120,7 +120,9 @@ u +/- 1.65o
     - preference
 
 ### Portfolio construction
-- portfolio construction inputs
+TEV, Marginal contributio
+
+- 5 portfolio construction inputs
   - transaction cost
   - alpha
     - refining alpha
@@ -131,8 +133,23 @@ u +/- 1.65o
   - covarience
   - active risk aversion: customer type; lambda = IR / (2 TEV)
   
-
-
+- 4 portfolio construction techniques
+  - Screens: rank top alpha
+  - Stratification: layered screaning
+  - Linear programming
+    - dimensions of riks, industry, size, vol and beta
+  - Quadratic programming
+    - more inputs
+    - Explicitly considers all three elements: alpha, risk, and transactions costs.
+- Portfolio Revisions and Rebalancing
+  - trade-off between expected active return, active risk and transaction costs
+  - MCVA𝑛 = alpha − 2 × 𝜆𝐴 × 𝜑 × MCAR𝑛 : Marginal contribution to value added for stock n
+  - non-trade region```2 × 𝜆𝐴 × 𝜑 × MCAR𝑛 − SC𝑛 ≤ a𝑛 ≤ 2 × 𝜆𝐴 × 𝜑 × MCAR𝑛 + PC𝑛```
+    - MCAR𝑛 : Marginal contribution to active risk of asset n.
+    - 𝜆𝐴: risk aversion of investor
+    - 𝜑: active risk
+    - selling/purchase cost
+  - Dispersion
 
 
 
