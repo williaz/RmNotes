@@ -151,8 +151,18 @@ TEV, Marginal contributio
     - selling/purchase cost
   - Dispersion
 
+### Portfolio Risk Measure
 
+- Marginal VaR
+  - MVaRa = 𝜕VaRp/𝜕Va = Z𝛼 × Cov(Ra, Rp)/𝜎p = Z𝛼 × 𝜌a,p × 𝜎a = Z𝛼 × 𝛽a,p × 𝜎𝑃 = 𝑉aRp/Vp × 𝜌a,p
+- Incremental VaR: VaR(p+a) - VaRp = MVaRa x Wa
+- Component VaR: CVaRa = MVaRa x Va
 
-
-
+- 3 legged risk management stool
+  - risk plan
+  - risk budgeting: asset allocation
+    - across asset classes
+    - across active manager
+  - risk monitoring
+    - VaR
 
