@@ -166,3 +166,40 @@ TEV, Marginal contributio
   - risk monitoring
     - VaR
 
+- VaR to diff risks
+  - Absolute Risk VS Relative Risk(to Benchmark)
+    - TE = Rp -Rb
+    - TEV(tracking err vol)
+  - Policy mix risk VS active mgt risk
+  - Funding risk: 
+    - Surplus = asset - liablity
+    - σSurplus
+  - Sponsor risk: owner
+
+
+### Performance Measure and Evaluatiion
+
+- Green zone
+  - G: usual event, insignificant dev
+  - Y: unusual but expected
+  - R: truely unusual, immediate follow-up
+- Sharp and information ration
+  - return calc
+    - holding period return
+    - time wighted
+    - dollar weighted: IRR(Internal rate of return)
+- Alpha vs Benchmark
+- Alpha vs Peer group
+- Attribution of return
+
+
+
+
+
+
+
+
+
+
+
+
