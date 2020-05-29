@@ -179,26 +179,37 @@ TEV, Marginal contributio
 
 ### Performance Measure and Evaluatiion
 
-- Green zone
-  - G: usual event, insignificant dev
-  - Y: unusual but expected
-  - R: truely unusual, immediate follow-up
-- Sharp and information ration
-  - return calc
-    - holding period return
-    - time wighted
-    - dollar weighted: IRR(Internal rate of return)
-- Alpha vs Benchmark
-- Alpha vs Peer group
-- Attribution of return
+- Measure
+  - Green zone
+    - G: usual event, insignificant dev
+    - Y: unusual but expected
+    - R: truely unusual, immediate follow-up
+  - Sharp and information ratio
+    - return calc
+      - holding period return
+      - time wighted
+      - dollar weighted: IRR(Internal rate of return)
+  - Alpha vs Benchmark
+  - Alpha vs Peer group
+  - Attribution of return
 
+- Risk adjusted return
+  - Total risk adjusted return: Modigliani-Squared
+    - M^2 measure of performance 
+      - sharp: (Rp - Rfree) / 𝜎p
+      - 𝜎𝑀× (SR𝑃 − SR𝑀) 
+  - Systematic risk adjusted return: Treynor Ratio
+    - T^2 measure of performance
+  - Unsystematic risk adjusted return
+    - IR measure of performance = excess return / TEV
+    - V-vol
+- Info ratio: IR ~= IC x BR^.5 (BR: breadth of strat)
 
+- Excess return = E(Rp) - E(Rb) = TE
+- t-value for alpha = alpha / std err of alpha = N^2 x IR
+  - IR = alpha / 𝜎alpha
 
-
-
-
-
-
+- Market timing ability
 
 
 
