@@ -210,6 +210,33 @@ TEV, Marginal contributio
   - IR = alpha / 𝜎alpha
 
 - Market timing ability
+  - call option model
+  - performance attribution
+    - sector selection
+    - security selection 
+
+### Hedge fund
+- Bias in
+  - Survivorship Bias
+  - Self-Selection Bias: same manager, poor performing ones of funds
+  - Backfill Bias
+
+- Evolution
+  - 98 LTCM
+  - 2000 .com
+  
+- Strategies
+  - Directional: Trend follower and Global Marco
+    - Managed futures: only future
+    - Global macro; long call and short put
+  - Event-driven: Risk arbitrage & distressed
+    - Risk(Merger) arbitrage
+  
+
+
+
+
+
 
 
 
