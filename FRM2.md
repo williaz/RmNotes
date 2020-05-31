@@ -231,9 +231,53 @@ TEV, Marginal contributio
     - Global macro; long call and short put
   - Event-driven: Risk arbitrage & distressed
     - Risk(Merger) arbitrage
-  
+      - deal risk
+    - Distressed securities(fallen angle)
+      - financial distress => jonk bond
+      - mispricing
+      
+  - Relative value and arbitrage like strategies
+    - Fixed income arbi
+      - duration = 0
+      - financial instrument: negative skewness
+    - convertible bond
+      - delta = 0
+      - long gamma & vega
+    - long/short equity
+      - beta ~= 0
+  - Niche
+    - Dedicated short bias
+    - Emerging market
+    - Equity market neutral
+- FoF (fund of hedge fund)
+  - fees
 
 
+- Hedge fund risks
+  - Liquidity risk
+    - iliiquid assets
+      - low correlation
+      - low vol
+      - high serial correlation
+  - Leverage Risk
+    - crowded trade risk
+  - Agency Risk
+    - incentive fee
+    - cost of fund closure
+    - GP(manager) own money
+    - water marks / clawback
+  - Style Drift Risk
+    - size
+    - leverage
+  - Fraud risk
+    - Unscrupulous hedge fm
+    - Ponzi schema
+    - Due diligence
+      - process
+        - Investment process:  What is your strategy, and how does it work?  How is equity ownership allocated among the portfolio management, trading, and research Teams?  Is the track record reliable?  Who are the principals, and are they trustworthy?
+        - Related risk controls:  How is risk measured and managed?  How are securities valued?  What is the portfolio leverage and liquidity?  Does the strategy expose the investor to tail risk?  How often do investors get risk reports, and what do they include?  Do the fund terms make sense for the strategy?
+        - Operational Environment:  Internal Control Assessment  Documents and Disclosures  Service Provider Evaluation
+        - Model Risk and Fraud Risk
 
 
 
