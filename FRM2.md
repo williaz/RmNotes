@@ -280,8 +280,70 @@ TEV, Marginal contributio
         - Model Risk and Fraud Risk
 
 
+## Credit Risk Measure and Management
+### Credit decision
+- Credit risk
+  - PD up
+  - Expected loss up
+  - exposure up
+  - settlement risk
 
+- 4 components
+  - obligor's capacity and willingness
+  - external condition
+  - attr of obligation: contract
+  - credit risk mitigants
 
+- credit analysis techniques
+  - willingness to repay
+    - FICO
+  - ablility to repay
+    - fin statement
 
+- categories of credit analysis
+  - individual
+  - non-fin firm: earning, profitablity
+  - fin
+    - capital adequacy, not cash flow
+    - asset quality
+    - withstand fin stress
+  - sovereign
 
+- Bank Insolvency VS Failure
+  - can go on
+
+- Credit risk tool and method
+  - quantitative elem: objective
+  - qualitative elem: subjective
+  - research skill
+    - primary: annual reports
+    - sencdoary: by agent
+  - source of info
+
+- CAMEL sys for Bank Fin health
+  - Capital
+  - Asset quality
+  - Management
+  - Earnings
+  - Liquidity
+
+### Credit risk Indicators
+- lending risk
+  - loan
+- counterparty risk
+  - forward
+  - swap
+  - option
+  - exotic option
+
+- 3 Drivers
+  - PD
+  - EAD
+  - LGD
+
+- Expected Loss (EL)
+  - EL = PD x LGD x EA
+
+- Unexpected loss (Credit VaR)
+  - worst- case loss - EL
 
