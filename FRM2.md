@@ -343,7 +343,17 @@ TEV, Marginal contributio
 
 - Expected Loss (EL)
   - EL = PD x LGD x EA
+  - linear for sum
 
 - Unexpected loss (Credit VaR)
   - worst- case loss - EL
+
+- Market VaR VS Credit VaR
+  - symmetric VS skewed to left
+  - short(1d-1mon) VS long term(1yr)
+
+
+
+
+
 
